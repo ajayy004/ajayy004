@@ -1,7 +1,5 @@
 ### Hello 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayy004&label=Profile%20Views&color=blue&style=flat-square" alt="ajayy004" /> </p>
-
 
 - 🔭 Currently working on _Technician Task Mgmt App_
 - 🌱 Exploring _Fluttter_
