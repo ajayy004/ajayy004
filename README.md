@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on _Technician Task Mgmt App_
-- 🌱 Exploring _Fluttter, Swift_
+- 🌱 Exploring _VR, Airflow_
 - 👯 Looking to collaborate on _Youtube_
 - 💬 Ask me about _Mobile, Security, Microservice, AWS_
 - 📫 Reach me: [Twitter - @ajayy004](https://twitter.com/ajayy004)
